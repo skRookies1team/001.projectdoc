@@ -26,6 +26,7 @@ project/
 - 📋 이슈 및 작업 추적
 - 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
 - 🔗 Jira를 활용한 요구사항 및 테스트 케이스 관리 - https://ricky86868.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+- ☁️브레인스토밍 - https://www.notion.so/11-5-PR-29dfef49d8d580fe999ae9e50040f49a
 
 ## 시작하기
 
