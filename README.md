@@ -1,4 +1,4 @@
-# 프로젝트 관리 시스템
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/dec98972-f0e7-476f-be17-1899c7100219" /># 프로젝트 관리 시스템
 
 ## 프로젝트 개요
 이 프로젝트는 GitHub를 활용한 체계적인 프로젝트 관리 시스템입니다. 회의록, 멘토링 일지, 프로젝트 문서화를 통해 효율적인 협업과 프로젝트 추적을 지원합니다.
@@ -25,6 +25,7 @@ project/
 - 🔄 Git 기반 버전 관리
 - 📋 이슈 및 작업 추적
 - 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
+- 🔗 Jira를 활용한 요구사항 및 테스트 케이스 관리 - https://ricky86868.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
 
 ## 시작하기
 
@@ -101,3 +102,4 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
