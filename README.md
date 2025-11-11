@@ -20,6 +20,7 @@ project/
 
 ## 주요 기능
 - 📝 체계적인 회의록 관리 - https://www.notion.so/29cfef49d8d580c2a935e8a7a434da1d?v=29cfef49d8d5818e901f000cf2972114
+- 💻 요구사항 명세서 - https://www.notion.so/2a4fef49d8d580f98bd1c2cf81ee25f4?v=2a4fef49d8d58021a601000c74359bda&source=copy_link
 - 👨‍🏫 멘토링 일지 추적 - 
 - 📚 프로젝트 문서화
 - 🔄 Git 기반 버전 관리
@@ -103,5 +104,6 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
