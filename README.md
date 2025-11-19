@@ -25,7 +25,7 @@ project/
 - 📚 프로젝트 문서화
 - 🔄 Git 기반 버전 관리
 - 📋 이슈 및 작업 추적
-- 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
+- 📊 칸반 보드 : http://58.127.241.84:8080/login
 - 🔗 Jira를 활용한 요구사항 및 테스트 케이스 관리 - https://ricky86868.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
 - ☁️브레인스토밍 - https://www.notion.so/11-5-PR-29dfef49d8d580fe999ae9e50040f49a
 
@@ -104,6 +104,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
